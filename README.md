@@ -39,13 +39,13 @@ Task-Automation-System/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Task-Automation-System.git
+git clone https://github.com/itsamitk29/CodeAlph_Task-Automation-System
 ```
 
 ### 2. Open the project folder
 
 ```bash
-cd Task-Automation-System
+cd CodeAlph_Task-Automation-System
 ```
 
 ### 3. Install the required package
@@ -57,7 +57,7 @@ pip install requests
 ### 4. Run the project
 
 ```bash
-python automation.py
+python File_Automation.py
 ```
 
 ## 📷 Menu
